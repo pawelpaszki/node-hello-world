@@ -2,9 +2,9 @@
   "name": "dev",
   "version": "1.0.0",
   "description": "hello world node 10 app",
-  "main": "index.js",
+  "main": "application.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node application.js"
   },
   "author": "Pawel Paszki",
   "license": "ISC",
